@@ -9,6 +9,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.10.0"
+  base_element:
+    dependency: "direct overridden"
+    description:
+      path: ".."
+      relative: true
+    source: path
+    version: "0.1.4"
   bindings_compatible:
     dependency: transitive
     description:
@@ -26,7 +33,7 @@ packages:
     source: hosted
     version: "2.1.1"
   bruno:
-    dependency: "direct main"
+    dependency: "direct dev"
     description:
       name: bruno
       sha256: "18866ef04d470876dc2434eb44c2ec3c2213ef354f734f8f99cfabee93fd4027"

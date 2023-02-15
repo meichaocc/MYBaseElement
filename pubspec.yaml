@@ -1,7 +1,7 @@
 name: base_element
 description: A new Flutter package project.
 version: 0.1.4
-homepage:
+homepage: https://github.com/meichaocc/base_element
 
 environment:
   sdk: '>=2.19.0 <3.0.0'
