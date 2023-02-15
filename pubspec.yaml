@@ -10,6 +10,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  bruno: ^3.3.0
 
 dev_dependencies:
   flutter_test:
